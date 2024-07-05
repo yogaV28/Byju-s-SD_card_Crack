@@ -1,4 +1,4 @@
-# Removing Write Protection from SD Card using `sdtool`
+# Removing Byju's SD Card Protection from SD Card using `sdtool`
 
 ## Overview
 
